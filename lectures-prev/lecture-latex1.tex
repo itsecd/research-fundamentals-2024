@@ -1,0 +1,284 @@
+\documentclass[12pt]{article}
+
+\usepackage[english, russian]{babel}
+\usepackage{amsmath, amsfonts, amsthm}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{multicol}
+\addto\captionsrussian{\def\refname{Список использованных источников}}
+
+\begin{document}% \begin - окружение, которое надо закрывать с помощью \end
+
+\begin{titlepage}
+\title{Примеры}
+\author{Кипкаева Ольга Сергеевна}
+\date{сегодня}
+\maketitle % Заголовок
+\thispagestyle{empty}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section{Списки}
+\subsection*{С заголовками} % раздел не пронумеровался
+\begin{description}
+\item[itemize:] пункты помечаются маркерами;
+\item[enumerate:] пункты нумеруются;
+\item[description:] пункты снабжаются заголовками.
+\end{description}
+
+\subsection{Нумерованный}
+\begin{enumerate}
+\item первый пункт
+\item второй пункт
+\end{enumerate}
+
+\subsection{Маркированный}
+\begin{itemize}
+\item первый пункт
+\item второй пункт
+\end{itemize}
+
+\subsection{Свой}
+\begin{itemize}
+\item[$+$] первый пункт
+\item[$-$] второй пункт
+\end{itemize}
+
+
+\subsection{Вложенный}
+\begin{enumerate}
+\item Нумеруются
+\begin{enumerate}
+\item второй уровень вложенности
+\end{enumerate}
+\item еще один пункт
+\end{enumerate}
+
+\subsection{Ненумерованный}
+\begin{trivlist}
+\item первое
+\item второй
+\item третий
+\end{trivlist}
+\newpage
+
+\section{Таблички}
+\begin{tabular}{|c|c||}
+1 & 5 \\
+\hline
+2 & 3
+\end{tabular}
+\\
+\\
+\\
+\begin{tabular}{|c|l|r|p{6cm}|}% c, r, l - выравнивание по центру, по правому краю, по левому краю
+\hline
+13 & 54 & 60 & 9 \\
+\hline
+3 & 8 & 4 & 2 \\
+\hline
+9 & 5 & 5 & 4\\
+\hline
+\end{tabular}
+\newpage
+
+\section{Колонки}
+\begin{minipage}[t]{14mm}
+Левая колонка узкая
+\end{minipage}
+\hfill
+\begin{minipage}[t]{38mm}
+Правая колонка немного шире
+\end{minipage}
+
+\columnseprule=0.3pt\columnsep=24pt
+\begin{multicols}{3}
+    какой-то очень длинный текст про мамонтов и динозавров, которые жили за много лет до нас
+\end{multicols}
+\newpage
+
+\section{Формулы} % \section - команда, которую не надо закрывать
+
+Пример 1 $\alpha$\\ % не выносится из текста
+Пример 2 $$\alpha_1$$ % выносится на середину строки
+
+Пример 3 \[\alpha_2\] % выносится на середину строки
+
+\textbf{Специальные знаки} $\%, \{, \setminus$\\
+
+$$\mathbb R, \mathbf L, \mathcal L, \mathrm G, G$$
+
+$$\epsilon, \varepsilon, \phi, \varphi$$
+
+\subsection{Индексы}
+Если индексов несколько, их нужно объединить в группы с помощью скобок $\{\}$\\
+Индексы друг над другом
+$$a_{(n-1)}^{546}, a^{546}_{45}$$
+и нет
+$$a^2{}_1{}^4$$
+
+$$a^\prime=a'$$
+
+$$\vec{\dot a}$$
+
+$$\underbrace{
+\overbrace{0 1 2 \dots 9}^{10}
+\rm A B \dots F
+}_{16}$$
+
+\subsection{Корни и дроби}
+
+$$\sqrt[3]{x-y}$$
+$$\sqrt{dy} \sqrt{d} \sqrt{y}$$
+
+$$\frac{13}{54}$$
+
+Команда frac может уменьшать дроби, если они находятся в тексте или числителе/знаменателе другой дроби\\
+Дробь frac $\frac{13}{54}$ и dfrac $\dfrac{13}{54}$\\
+Дробь frac
+$$\frac{1}{4+\frac1{1+\frac12}}$$
+Дробь cfrac
+$$\cfrac{1}{4+\cfrac1{1+\cfrac12}}$$
+
+\subsection{Скобки}
+
+$$\Biggl(
+\biggl[
+\Bigl\{
+\bigl\|
+\langle x \rangle
+\bigr\|
+\Bigr\}
+\biggr]
+\Biggr)$$
+
+$$\left(\cfrac{1}{4+\cfrac1{1+\cfrac12}}\right)$$ 
+
+Можно поставить только одну скобку
+$$\biggl($$
+
+$$\left. \right)$$
+
+\subsection{Промежутки и пробелы}
+пмрп \,пм\\
+орир\:прмп\\
+лои\;иро\\
+тот\qquad ма \\
+
+ас\!мапм
+
+\subsection{Операторы}
+
+$$sin^2x+cos^2x=1$$
+$$\sin^2x+\cos^2x=1$$
+
+$\lim_{x \to 0}$
+
+$\lim\limits_{x \to 0}$\\
+
+$\int_4^5$
+
+$\int\limits_4^5$
+
+\subsection{Матрицы}
+
+$\begin{matrix}
+1 & 0\\ 
+2 & 3
+\end{matrix}$
+$\begin{pmatrix}
+1 & 0\\ 
+2 & 3
+\end{pmatrix}$
+$\begin{bmatrix}
+1 & 0\\ 
+2 & 3
+\end{bmatrix}$
+$\begin{vmatrix}
+1 & 0\\ 
+2 & 3
+\end{vmatrix}$
+$\begin{pmatrix}
+1 & \dots & 0\\ 
+\vdots & \ddots & \vdots\\
+2 & \dots & 3
+\end{pmatrix}$
+
+
+\subsection{Системы и нумерация}
+\subsubsection{Ненумерованные}
+$$\begin{cases}
+gfftfy, & \text{если $x=0$}\\
+nmb h
+\end{cases}$$
+
+$$\begin{aligned}
+gfftfy, & \text{если $x=0$}\\
+nmb h
+\end{aligned}$$
+
+\subsubsection{Нумерованные}
+\begin{align} % выравнивает уравнения по знаку &
+67867 &= 65658 & 546 & =5\\
+5 &= 45 & 5 & =897
+\end{align}
+
+\begin{gather}% выравнивает по центру
+gfftfy, \text{если $x=0$} \label{1}\\
+nmb hnbn \notag % не нумеруется одно уравнение
+\end{gather}
+
+Ссылка на формулу (\ref{1}).
+
+\begin{multline}% разбивает длинную формулу на несколько строк
+dgsgdfgf\\
+ffgfgf\\
+tfttgyg\\
+fgdfgfd
+\end{multline}
+
+Чтобы пронумеровать не каждое уравнение в системе, а всю систему, нужно в окружении equation записать окружение системы, например cases\\
+\begin{equation}
+|\sin x|=
+\begin{cases}
+\sin x, & 0< x <\pi, \\
+-\sin x, & \pi< x <2\pi.
+\end{cases}
+\end{equation}
+\newpage
+
+\section{Рисунки}
+Ссылка на литературу \cite{g}.
+
+Уточка \\
+\includegraphics[width=110mm]{utka.jpg}
+
+\begin{figure}[h] % С параметром [h] латех сам решает, куда поставить картинку, но поставит примерно там, где вы ее написали в коде. Если не хватит места на данной странице, он перекинет картинку на другую страницу, причем текст, написанный после картинки, может остаться на данной странице. То есть, он выведется перед картинкой
+\centering{
+\includegraphics[width=130mm]{utka.jpg}
+}
+\caption{Утка плавает где-то}
+\label{ут}
+\end{figure}
+
+
+Ссылка на рисунок \ref{ут} ставится той же командой, что и ссылка на формулу.
+
+\begin{figure}[H] % пакет float и параметр [H] дает возможность поставить картинку в той части кода, где вы ее поставили
+\centering{
+\includegraphics[width=130mm]{utka.jpg}
+}
+\caption{Утка находится там, куда вы ее поставите}
+\label{ут}
+\end{figure}
+\newpage
+
+\addcontentsline{toc}{section}{Список исп ист}
+\begin{thebibliography}{0}
+\bibitem{g}
+сапспмо
+\end{thebibliography}
+
+\end{document}
