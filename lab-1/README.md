@@ -3,7 +3,7 @@
 
 - [Задание на лабораторную работу](https://github.com/itsecd/research-fundamentals/blob/main/lab-1/lab-1-task.pdf)
 - [Классификатор научных тематик для выбора варианта](https://dl.acm.org/ccs)
-- [Видео-пояснение к заданию (2022-й год)](https://youtu.be/BiAtxL8tPaE)
+- [Видео-пояснение к заданию (2022-й год)](https://mega.nz/file/y5MzBRxZ#-gCmJ2UJ0ghVBmsO9uyoyrzAfvbNXYjMtwfEgEaKSac)
 - [Шаблон текстового файла](https://docs.google.com/document/d/17pliktRpPX6av2e_oDm_T6i2Sy4YZdFhQUj2WMuOjEs/edit?usp=sharing)
 - [Пример выполненного задания (Zotero, Google Docs)](https://github.com/itsecd/research-fundamentals/blob/main/lab-1/lab-1-demo-project.zip)
 - [Редактируемая таблица для выбора вариантов и напарников](https://docs.google.com/spreadsheets/d/1uDTkY_VIi03iyauel8OGTO-kbgwjDYfqUp7aUsxc6F4/edit?usp=sharing)
