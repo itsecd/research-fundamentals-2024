@@ -118,7 +118,7 @@
 <tr>
 <td>1</td>
 <td>Анализ литературы с использованием библиографического менеджера</td>
-<td></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lab-1/">Материалы</a></td>
 </tr>
 
 <tr>
