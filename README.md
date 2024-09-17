@@ -21,7 +21,7 @@
 Виды занятий<br/>
 Преподаватели<br/>
 Структура курса</td>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture00-course-info.pdf">Презентация</a></td>
+<td></td>
 <td></td>
 </tr>
 
@@ -30,7 +30,7 @@
 <td>Структура российской науки<br/>
 Вузовская наука<br/>
 Как искать себе научного руководителя<br/>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture01-research-work-structure.pdf">Презентация</a></td>
+<td></td>
 <td></td>
 </tr>
 
@@ -39,7 +39,7 @@
 <td>Содержание и этапы научного исследования<br/>
 Журналы и конференции<br/>
 Где искать литературу<br/>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture02-research-stages-and-literature.pdf">Презентация</a></td>
+<td></td>
 <td></td>
 </tr>
 
@@ -49,8 +49,6 @@
 Защита диссертации<br/>
 Финансирование исследований<br/>
 <td>
-<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture03-novelty-financing.pdf">Презентация</a><br/>
-<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture03add1-vak-topics.pdf">Классификатор ВАК</a>
 </td>
 <td></td>
 </tr>
@@ -161,7 +159,7 @@
 </tr>
 
 <tr>
-<td>3 базовая часть</td>
+<td>3 (базовая часть)</td>
 <td>Занятие 5</td>
 <td>Занятие 7</td>
 </tr>
