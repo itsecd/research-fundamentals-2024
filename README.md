@@ -118,19 +118,19 @@
 <tr>
 <td>1</td>
 <td>Анализ литературы с использованием библиографического менеджера</td>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lab-1/">Материалы</a></td>
+<td></td>
 </tr>
 
 <tr>
 <td>2</td>
 <td>Оформление научно-технического текста в традиционном текстовом процессоре и в LaTeX</td>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lab-2/">Материалы</a></td>
+<td></td>
 </tr>
 
 <tr>
 <td>3</td>
 <td>Подготовка презентации и выступление с научным докладом</td>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lab-3/">Материалы</a></td>
+<td></td>
 </tr>
 
 </table>
