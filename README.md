@@ -21,7 +21,7 @@
 Виды занятий<br/>
 Преподаватели<br/>
 Структура курса</td>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture00-course-info.pdf">Презентация</a></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture00-course-info.pdf">Презентация</a></td>
 <td></td>
 </tr>
 
@@ -30,8 +30,8 @@
 <td>Структура российской науки<br/>
 Вузовская наука<br/>
 Как искать себе научного руководителя<br/>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture01-research-work-structure.pdf">Презентация</a></td>
-<td><a href="https://youtu.be/tBHvD__szDU">Видео 1 (2023)</a> | <a href="https://youtu.be/ad5zWnXBLCM">Видео 2 (2023)</a></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture01-research-work-structure.pdf">Презентация</a></td>
+<td></td>
 </tr>
 
 <tr>
@@ -39,8 +39,8 @@
 <td>Содержание и этапы научного исследования<br/>
 Журналы и конференции<br/>
 Где искать литературу<br/>
-<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture02-research-stages-and-literature.pdf">Презентация</a></td>
-<td><a href="https://youtu.be/gL98OpeDjEg">Видео 1 (2023)</a> | <a href="https://youtu.be/wUoiDHKT3Lk">Видео 2 (2023)</a></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture02-research-stages-and-literature.pdf">Презентация</a></td>
+<td></td>
 </tr>
 
 <tr>
@@ -49,10 +49,10 @@
 Защита диссертации<br/>
 Финансирование исследований<br/>
 <td>
-<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture03-novelty-financing.pdf">Презентация</a><br/>
-<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture03add1-vak-topics.pdf">Классификатор ВАК</a>
+<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture03-novelty-financing.pdf">Презентация</a><br/>
+<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture03add1-vak-topics.pdf">Классификатор ВАК</a>
 </td>
-<td><a href="https://youtu.be/7kj57-AAHS8">Видео (2023)</a></td>
+<td></td>
 </tr>
 
 <tr>
@@ -60,7 +60,7 @@
 <td>Подготовка презентации.<br/>
 Выступление с научным докладом<br/>
 <td>
-<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture04-presentation.pdf">Презентация</a><br/>
+<td></td>
 </td>
 <td></td>
 </tr>
@@ -83,8 +83,8 @@
 Структура документа. Пакеты<br/>
 Списки и таблицы</td>
 <td>
-<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture-latex1.tex">Пример документа - TeX</a><br/>
-<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture-latex1.pdf">Пример документа - PDF</a>
+<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture-latex1.tex">Пример документа - TeX</a><br/>
+<a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures-prev/lecture-latex1.pdf">Пример документа - PDF</a>
 </td>
 <td><a href="https://youtu.be/A8JqEQ8TWOM">Видео</a>
 </td>

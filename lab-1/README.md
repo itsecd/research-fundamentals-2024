@@ -6,7 +6,7 @@
 - [Видео-пояснение к заданию (2022-й год)](https://youtu.be/BiAtxL8tPaE)
 - [Шаблон текстового файла](https://docs.google.com/document/d/17pliktRpPX6av2e_oDm_T6i2Sy4YZdFhQUj2WMuOjEs/edit?usp=sharing)
 - [Пример выполненного задания (Zotero, Google Docs)](https://github.com/itsecd/research-fundamentals/blob/main/lab-1/lab-1-demo-project.zip)
-- [Редактируемая таблица для выбора вариантов и напарников]()
+- [Редактируемая таблица для выбора вариантов и напарников](https://docs.google.com/spreadsheets/d/1uDTkY_VIi03iyauel8OGTO-kbgwjDYfqUp7aUsxc6F4/edit?usp=sharing)
 
 ## Схема сдачи
 
