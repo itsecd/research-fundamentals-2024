@@ -21,7 +21,7 @@
 Виды занятий<br/>
 Преподаватели<br/>
 Структура курса</td>
-<td></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture00-course-info.pdf">PDF</a></td>
 <td></td>
 </tr>
 
