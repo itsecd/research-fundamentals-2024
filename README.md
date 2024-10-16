@@ -130,7 +130,7 @@
 <tr>
 <td>3</td>
 <td>Подготовка презентации и выступление с научным докладом</td>
-<td></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lab-3/">Материалы</a></td>
 </tr>
 
 </table>
