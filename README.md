@@ -30,7 +30,7 @@
 <td>Структура российской науки<br/>
 Вузовская наука<br/>
 Как искать себе научного руководителя<br/>
-<td></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture01-academic-work-structure.pdf">PDF</a></td>
 <td></td>
 </tr>
 
@@ -39,7 +39,7 @@
 <td>Содержание и этапы научного исследования<br/>
 Журналы и конференции<br/>
 Где искать литературу<br/>
-<td></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture02-research-stages-and-literature.pdf">PDF</a></td>
 <td></td>
 </tr>
 
