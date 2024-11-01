@@ -47,7 +47,7 @@
 <td>3</td>
 <td>Актуальность, новизна и вклад. <br/>
 Защита диссертации<br/>
-Финансирование исследований<br/>
+Финансирование исследований<br/></td>
 <td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture03-novelty-financing.pdf">PDF</a></td>
 <td></td>
 </tr>
