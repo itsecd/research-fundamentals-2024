@@ -56,7 +56,7 @@
 <td>4</td>
 <td>Подготовка презентации.<br/>
 Выступление с научным докладом<br/>
-<td></td>
+<td><a href="https://github.com/itsecd/research-fundamentals/blob/main/lectures/lecture04-presentation.pdf">PDF</a></td>
 <td></td>
 </tr>
 
